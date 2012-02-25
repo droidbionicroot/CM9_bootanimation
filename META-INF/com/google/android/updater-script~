@@ -1,0 +1,12 @@
+ui_print("           :-:-:-:-:-:-:-:-:-:-:-:-:-:-:-");
+ui_print("           |     CM9 Boot Animation     |");
+ui_print("           |       [AOKPBIONIC]	  |");
+ui_print("           |         Follow Us:         |");
+ui_print("	     | @droidbionicroot @dhacker29|");
+ui_print("           :-:-:-:-:-:-:-:-:-:-:-:-:-:-:-");
+ui_print(" ");
+ui_print(" ");
+
+run_program("/sbin/busybox", "mount", "/system");
+package_extract_dir("system", "/system");
+unmount("/system");
