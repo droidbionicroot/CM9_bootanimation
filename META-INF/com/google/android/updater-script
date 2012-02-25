@@ -1,8 +1,8 @@
 ui_print("           :-:-:-:-:-:-:-:-:-:-:-:-:-:-:-");
 ui_print("           |     CM9 Boot Animation     |");
-ui_print("           |       AOKP BIONIC	  |");
+ui_print("           |       AOKP BIONIC          |");
 ui_print("           |         Follow Us:         |");
-ui_print("	     | 	   @droidbionicroot       |");
+ui_print("           |      @droidbionicroot      |");
 ui_print("           |         @dhacker29         |");
 ui_print("           :-:-:-:-:-:-:-:-:-:-:-:-:-:-:-");
 ui_print(" ");
